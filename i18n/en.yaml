@@ -2,7 +2,7 @@
 - id: "meta_title"
   translation: "Javier Gorostiza - Personal Website / CV / Blog"
 - id: "meta_description"
-  translation: "This is the personal website and portfolio of Javier Gorostiza. CV, Blog, and research projects also included."
+  translation: "This is the personal website and portfolio of Javier Gorostiza, including his CV, blog, and research projects."
 - id: "meta_keywords"
   translation: "personal website, portfolio, dossier, cv, curriculum, blog, research"
 - id: "meta_author"
@@ -50,7 +50,7 @@
   translation: "Javier Gorostiza - Personal Website"
 
 - id: "head_description"
-  translation: "This is the personal website and portfolio of Javier Gorostiza. CV, Blog, and research projects also included."
+  translation: "This is the personal website and portfolio of Javier Gorostiza, including his CV, blog, and research projects."
 
 
 ## Blog
